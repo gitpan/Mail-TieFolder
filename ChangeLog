@@ -1,3 +1,11 @@
+2001-01-21 09:28  stevegt
+
+	* ChangeLog, TieFolder.pm: more documentation
+
+2001-01-20 16:42  stevegt
+
+	* ChangeLog, Changes, MANIFEST: CPAN release v0.01
+
 2001-01-20 16:27  stevegt
 
 	* TieFolder.pm, t/hash.t, t/supported.t, t/test.t,
